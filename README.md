@@ -1,2 +1,1 @@
-# nodejwt
-jwt
+# jwt
